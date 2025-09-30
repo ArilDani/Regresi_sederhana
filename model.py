@@ -58,4 +58,4 @@ st.write(
 
 # =============================
 # Link Source Code
-st.markdown("**Source Code:** [Lihat di GitHub](https://github.com/username/nama-repo)")
+st.markdown("**Source Code:** [Lihat di GitHub](https://github.com/ArilDani/Regresi_sederhana)")
